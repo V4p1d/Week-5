@@ -8,3 +8,4 @@ that is made of all the elemtns of the list. For example, the output of the list
 
 def combineLetters():
     return
+    
